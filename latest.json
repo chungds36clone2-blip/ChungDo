@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "product": "dvc-tools",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "minimum_sketchup": 2022,
-  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.3.1/dvC_Tools_v1.3.1.rbz",
-  "notes": "Bản kích hoạt cập nhật trực tuyến từ nguồn GitHub chính thức.\nThông báo bản mới trong cửa sổ gọn ở giữa SketchUp, có bản hiện tại, bản mới và ghi chú thay đổi.\nĐồng ý để tải và kiểm tra SHA-256; bản mới chỉ được nạp sau khi đóng hết các phiên SketchUp dùng bộ cài này rồi mở lại.\nTừ chối để tiếp tục dùng bản hiện tại và cập nhật sau trong Settings. Có thể hủy tải hoặc ẩn tiến độ.\nGiữ các công cụ, phím tắt và giao diện Thước Lỗ Ban / Dọn rác đã có.\nCài bản 1.3.1 thủ công một lần bằng Extension Manager, sau đó lưu công việc, đóng hết SketchUp và mở lại.\n\nTính SHA-256 bằng .NET, hoạt động trong PowerShell chạy ẩn mà không phụ thuộc lệnh Get-FileHash.",
-  "sha256": "87177648b2450d5db2365798cf38641e4dd7b72c96965c5f1ae3883e446d0681",
-  "size_bytes": 187121,
+  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.3.2/dvC_Tools_v1.3.2.rbz",
+  "notes": "không có gì mới mẻ cả, chỉ là test update thôi",
+  "sha256": "9c7574eda26d8dd9f9d64e01d1c6fb608f5ba0b197d91dbb35225fb7dc6ca2f7",
+  "size_bytes": 187180,
   "install_protocol": 1
 }
