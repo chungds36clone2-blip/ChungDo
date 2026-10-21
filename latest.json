@@ -4,7 +4,7 @@
   "version": "1.3.3",
   "minimum_sketchup": 2022,
   "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.3.3/dvC_Tools_v1.3.3.rbz",
-  "notes": "Sửa lỗi thông báo cập nhật khi mở SketchUp.\nMỗi lần mở SU, nếu bật thông báo, công cụ sẽ kiểm tra nền sau khoảng 10 giây và tự hiện bảng khi có bản mới phù hợp.\nKhắc phục trường hợp kiểm tra trong Settings làm bỏ lỡ thông báo khởi động; bật/tắt thông báo được áp dụng ngay.",
+  "notes": "Ok đang test thông báo",
   "sha256": "f6b13ca697dd992791f31171a63fcfbdfeb74eec7b7e567699fd3459bf27e511",
   "size_bytes": 187541,
   "install_protocol": 1
