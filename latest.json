@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "product": "dvc-tools",
+  "version": "1.2.0",
+  "minimum_sketchup": 2022,
+  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.2.0/dvC_Tools_v1.2.0.rbz",
+  "notes": "Bổ sung mục Kiểm tra cập nhật trong dvC Settings, tùy chọn thông báo bản mới và ghi chú phiên bản.\nGiữ bố cục Thước Lỗ Ban tối giản, cuộn 2 cm mỗi khấc và câu lưu ý đã duyệt.\nDọn rác có hai phạm vi Toàn bộ / Vùng chọn, mặc định Toàn bộ.\nLưu ý cho bản đầu tiên: bộ cài 1.2.0 này chưa gắn nguồn phát hành và chưa tự cài cập nhật. Cần cài bản kích hoạt thủ công khi cơ chế mới được hoàn tất.",
+  "sha256": "788e8a04dab5b761223ec9647808321dce4ee51eaf0b523400f31010657748ce",
+  "size_bytes": 173959
+}
