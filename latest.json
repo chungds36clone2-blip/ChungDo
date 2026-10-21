@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "product": "dvc-tools",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "minimum_sketchup": 2022,
-  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.3.3/dvC_Tools_v1.3.3.rbz",
-  "notes": "Ok đang test thông báo",
-  "sha256": "f6b13ca697dd992791f31171a63fcfbdfeb74eec7b7e567699fd3459bf27e511",
-  "size_bytes": 187541,
+  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.3.4/dvC_Tools_v1.3.4.rbz",
+  "notes": "Thêm xác nhận trước khi Refresh trong Settings.\nChọn Hủy hoặc bấm Esc để giữ phần phím tắt đang chỉnh. Chỉ tải lại danh sách sau khi xác nhận Refresh; phím tắt đã lưu vẫn được giữ.",
+  "sha256": "a25691b0d5ce0e9d050c87ad9b1f4b1188756a269e29f75ca07ff3d5c6aeba5c",
+  "size_bytes": 188095,
   "install_protocol": 1
 }
