@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "product": "dvc-tools",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "minimum_sketchup": 2022,
-  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.3.4/dvC_Tools_v1.3.4.rbz",
-  "notes": "Đang trong quá trình build, nếu gặp lỗi hoan hỉ liên hệ zalo",
-  "sha256": "a25691b0d5ce0e9d050c87ad9b1f4b1188756a269e29f75ca07ff3d5c6aeba5c",
-  "size_bytes": 188095,
+  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.3.5/dvC_Tools_v1.3.5.rbz",
+  "notes": "Bổ sung hướng dẫn",
+  "sha256": "69bd3bbf6e703d05ab250c8260097c7fc348a39c12f9ca8dc6b8658464c72b6d",
+  "size_bytes": 328231,
   "install_protocol": 1
 }
