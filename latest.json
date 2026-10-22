@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "product": "dvc-tools",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "minimum_sketchup": 2022,
-  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.4.1/dvC_Tools_v1.4.1.rbz",
-  "notes": "Cập nhật tính năng tạo bản lề cánh. Tính năng sắp xếp layout công cụ toolbar",
-  "sha256": "ab0e6b464c63c52fed9d0d66088155efbc0f2c83b22c58693cd7133ac13529bc",
-  "size_bytes": 381292,
+  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.4.3/dvC_Tools_v1.4.3.rbz",
+  "notes": "Hoàn thiện Chức năng tạo bản lề cánh cho khứa Việt :v ",
+  "sha256": "ed692664f474abade8994491ddbb0eebfc27ad3d217debec1c9c4207c56767b2",
+  "size_bytes": 383617,
   "install_protocol": 1
 }
