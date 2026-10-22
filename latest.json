@@ -4,7 +4,7 @@
   "version": "1.4.1",
   "minimum_sketchup": 2022,
   "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.4.1/dvC_Tools_v1.4.1.rbz",
-  "notes": "Sửa lỗi ẩn/hiện và sắp xếp toolbar: bấm Lưu bố cục áp dụng ngay trong SketchUp 2025, giữ bố cục khi mở lại.\nChỉ báo lưu thành công khi cấu hình đọc lại đúng và toolbar đã đổi đủ nút, đúng thứ tự.\nCác tool đã ẩn vẫn sử dụng được phím tắt và menu Extensions.",
+  "notes": "Cập nhật tính năng tạo bản lề cánh. Tính năng sắp xếp layout công cụ toolbar",
   "sha256": "ab0e6b464c63c52fed9d0d66088155efbc0f2c83b22c58693cd7133ac13529bc",
   "size_bytes": 381292,
   "install_protocol": 1
