@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "product": "dvc-tools",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "minimum_sketchup": 2022,
-  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.5.0/dvC_Tools_v1.5.0.rbz",
-  "notes": "Thêm tính năng Tạo Line Light",
-  "sha256": "95cae8eb51e67807ca68893429a19939da8fc9179f7166d41063368aa0de03bb",
-  "size_bytes": 420680,
+  "download_url": "https://github.com/chungds36clone2-blip/ChungDo/releases/download/v1.6.0/dvC_Tools_v1.6.0.rbz",
+  "notes": "Cải thiện chức năng tạo cửa:\n- Click phải bổ sung : Xóa gán thuộc tính cánh\n- Thêm gán thuộc tính cho cửa lùa ( tab)",
+  "sha256": "0fe2d7f97db9318e547a328fca823713b2b6fb57a763b0792969c7c1aa28b33a",
+  "size_bytes": 1252638,
   "install_protocol": 1
 }
